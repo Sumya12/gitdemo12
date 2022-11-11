@@ -1,0 +1,6 @@
+
+class sumit
+{
+sop("sumit");
+}
+
